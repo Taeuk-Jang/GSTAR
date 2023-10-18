@@ -23,4 +23,16 @@ Pretrained model link : https://1drv.ms/u/s!AlCY8gQvkMJOhMUnfVK5VdAMEA8R-w?e=ixS
                             with FACT on CelebA dataset.
     3) ./notebooks/figures : includes all the experimental results on evaluated datasets.
 
+## Citation
+```
+@inproceedings{jang2022group,
+  title={Group-aware threshold adaptation for fair classification},
+  author={Jang, Taeuk and Shi, Pengyi and Wang, Xiaoqian},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={36},
+  number={6},
+  pages={6988--6995},
+  year={2022}
+}
+```
 
